@@ -1,0 +1,66 @@
+{"US":
+    {
+    "2023-01-16": {
+        "prompt": "A meaningful artwork commemorating Martin Luther King Jr. Day, reflecting on the ideals of equality, justice, and civil rights.",
+        "negative_prompt": "An image lacking in the meaningful artwork commemorating Martin Luther King Jr. Day, failing to reflect on the ideals of equality, justice, and civil rights."
+    },
+    "2023-02-20": {
+        "prompt": "An artistic representation celebrating Presidents' Day, showcasing the contributions of past presidents to the nation's history and progress.",
+        "negative_prompt": "An image lacking in the artistic representation celebrating Presidents' Day, failing to showcase the contributions of past presidents to the nation's history and progress."
+    },
+    "2023-05-29": {
+        "prompt": "A patriotic and inspiring image in honor of Memorial Day, paying tribute to the men and women who have sacrificed their lives in military service.",
+        "negative_prompt": "An image lacking in the patriotic and inspiring depiction in honor of Memorial Day, failing to pay tribute to the men and women who have sacrificed their lives in military service."
+    },
+    "2023-07-04": {
+        "prompt": "A vibrant and festive artwork capturing the spirit of Independence Day, featuring fireworks, flags, and a sense of national pride.",
+        "negative_prompt": "An image lacking in the vibrant and festive artwork capturing the spirit of Independence Day, failing to feature fireworks, flags, and a sense of national pride."
+    },
+    "2023-09-04": {
+        "prompt": "A serene and reflective scene commemorating Labor Day, symbolizing the achievements and contributions of workers to the nation's prosperity.",
+        "negative_prompt": "An image lacking in the serene and reflective scene commemorating Labor Day, failing to symbolize the achievements and contributions of workers to the nation's prosperity."
+    },
+    "2023-10-09": {
+        "prompt": "An autumn-themed artwork celebrating Columbus Day, depicting the spirit of exploration and discovery with a nod to cultural diversity.",
+        "negative_prompt": "An image lacking in the autumn-themed artwork celebrating Columbus Day, failing to depict the spirit of exploration and discovery with a nod to cultural diversity."
+    },
+    "2023-11-11": {
+        "prompt": "A heartfelt and grateful illustration for Veterans Day, honoring the bravery and sacrifice of all military veterans.",
+        "negative_prompt": "An image lacking in the heartfelt and grateful illustration for Veterans Day, failing to honor the bravery and sacrifice of all military veterans."
+    },
+    "2023-11-23": {
+        "prompt": "A warm and festive scene in celebration of Thanksgiving, capturing the spirit of gratitude, togetherness, and a bountiful harvest.",
+        "negative_prompt": "An image lacking in the warm and festive scene in celebration of Thanksgiving, failing to capture the spirit of gratitude, togetherness, and a bountiful harvest."
+    },
+    "2023-12-25": {
+        "prompt": "A joyous and festive artwork in honor of Christmas, featuring scenes of merriment, gift-giving, and the spirit of kindness and generosity.",
+        "negative_prompt": "An image lacking in the joyous and festive artwork in honor of Christmas, failing to feature scenes of merriment, gift-giving, and the spirit of kindness and generosity."
+    }
+},
+"Turkey":{
+    "2023-04-23": {
+        "prompt": "A lively illustration in honor of National Sovereignty and Children's Day in Turkey, capturing the spirit of youth, freedom, and unity.",
+        "negative_prompt": "An image lacking in the lively illustration in honor of National Sovereignty and Children's Day in Turkey, failing to capture the spirit of youth, freedom, and unity."
+    },
+    "2023-05-01": {
+        "prompt": "An energetic and vibrant scene commemorating Labor and Solidarity Day in Turkey, symbolizing the contributions of workers and the strength of solidarity.",
+        "negative_prompt": "An image lacking in the energetic and vibrant scene commemorating Labor and Solidarity Day in Turkey, failing to symbolize the contributions of workers and the strength of solidarity."
+    },
+    "2023-05-19": {
+        "prompt": "A proud and patriotic artwork celebrating Atatürk Memorial, Youth and Sports Day in Turkey, showcasing the spirit of heroism, youth, and athletic achievement.",
+        "negative_prompt": "An image lacking in the proud and patriotic artwork celebrating Atatürk Memorial, Youth and Sports Day in Turkey, failing to showcase the spirit of heroism, youth, and athletic achievement."
+    },
+    "2023-07-20": {
+        "prompt": "A coastal-themed illustration in honor of Ramadan Feast in Turkey, depicting family gatherings, delicious traditional dishes, and a festive atmosphere.",
+        "negative_prompt": "An image lacking in the coastal-themed illustration in honor of Ramadan Feast in Turkey, failing to depict family gatherings, delicious traditional dishes, and a festive atmosphere."
+    },
+    "2023-08-30": {
+        "prompt": "A triumphant scene commemorating Victory Day in Turkey, symbolizing the spirit of independence, courage, and national pride.",
+        "negative_prompt": "An image lacking in the triumphant scene commemorating Victory Day in Turkey, failing to symbolize the spirit of independence, courage, and national pride."
+    },
+    "2023-10-29": {
+        "prompt": "A patriotic and historic artwork celebrating Republic Day in Turkey, featuring national symbols, unity, and the achievements of the Turkish Republic.",
+        "negative_prompt": "An image lacking in the patriotic and historic artwork celebrating Republic Day in Turkey, failing to feature national symbols, unity, and the achievements of the Turkish Republic."
+    }
+}
+}
